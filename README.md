@@ -123,7 +123,7 @@ select * from wpa_keys;
 
 - Vous pouvez ici utiliser la commande ```help``` pour afficher les différentes options qui se présentent à vous 
 
-![](https://hackmd.io/_uploads/H1WfacLH2.png)
+![](https://cdn.discordapp.com/attachments/1069536144951357460/1109496115734257684/image.png)
 
 #### Note : 
 
@@ -137,4 +137,4 @@ select * from wpa_keys;
 
 - Pour afficher les commandes disponibles, utilisez ```help``` une fois connecté à la machine de la victime
 
-![](https://hackmd.io/_uploads/BJcvp9USn.png)
+![](https://cdn.discordapp.com/attachments/1069536144951357460/1109496328230277252/image.png)
